@@ -6,7 +6,7 @@ I have created an Image repository using Django with functinalities like:
 
 1. `Image Upload`
 2. `Image Delete`
-3.` Image Filter`
+3. `Image Filter`
 4. `Image View`
 5. `Also has an about page which redirects to the author.`
 
